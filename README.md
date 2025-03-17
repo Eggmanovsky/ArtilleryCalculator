@@ -1,0 +1,2 @@
+# ArtilleryCalculator
+基于python屏幕像素计算的战争雷霆曲射火力计算器
